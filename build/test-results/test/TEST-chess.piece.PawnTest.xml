@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="chess.piece.PawnTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-06-09T02:52:35" hostname="Sungbin-MacBookPro.local" time="0.105">
-  <properties/>
-  <testcase name="[1] BLACK" classname="chess.piece.PawnTest" time="0.098"/>
-  <testcase name="[2] WHITE" classname="chess.piece.PawnTest" time="0.002"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
