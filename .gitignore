@@ -12,6 +12,7 @@
 
 .gradle/
 build/
+.idea/
 
 # Package Files #
 *.jar
